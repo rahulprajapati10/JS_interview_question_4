@@ -3,7 +3,7 @@
 // Day4
 
 
-// Q1. What are objects in javascript ?
+// Q1. What are objects in JavaScript ?
 
 // In JavaScript, objects are data structures that store collections of key-value pairs,
 //  where keys are strings (or symbols) and values can be any type, including other objects, functions, arrays, or primitive values.
