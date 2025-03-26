@@ -58,7 +58,7 @@ Rangbaaz.introduce();
 
 
 
-// Q.4  Give an example of inheritance using function constructor ?
+// Q.4  Give an example of inheritance function constructure  ?
 
 class Animal {
     constructor(name, sound) {
